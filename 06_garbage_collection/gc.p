@@ -22,7 +22,7 @@ define run_gc(gc_trace, p);
 enddefine;
 
 define gc_store( gctrace );
-    run_gc( gctrace, inits(% 1000000 %) )
+    run_gc( gctrace, inits(% 1000000 %) <> erase )
 enddefine;
 
 define gc_devices( gctrace );

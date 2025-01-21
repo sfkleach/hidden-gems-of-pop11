@@ -5,6 +5,10 @@ which will highlight some of the areas of Pop-11 that remain noteworthy in
 one way or another. If you are interested in our talks or what we do, please
 join our Discord channel.
 
+The section below was used to advertise the talk - please note that some
+historical simplifications are made (e.g. no mention of COWSEL) in the
+interest of making it short and sweet.
+
 ## Flyer for Decodering - Tue 21st Jan, 18:30-20:00
 
 The first high-level programming languages were created in 1959-1960 and
